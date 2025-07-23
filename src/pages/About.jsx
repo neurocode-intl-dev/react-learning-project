@@ -2,6 +2,8 @@ export default function About() {
 
   return <>
   
+
+  <h2>Abot page new changed</h2>
   <h1>About Page</h1>
   </>;
 }
