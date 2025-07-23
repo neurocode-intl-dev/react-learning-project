@@ -5,8 +5,8 @@ export default function About() {
 
   <button>Hello</button>
 
-  <h2>Abot page new changed</h2>
-  <h1>About Page</h1>
+  <h1>Abot page new changed</h1>
+  <h1>About Page history</h1>
   </>;
 }
     
